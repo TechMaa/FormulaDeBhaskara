@@ -1,0 +1,15 @@
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\bin\Debug\net6.0\Ex06.exe
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\bin\Debug\net6.0\Ex06.deps.json
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\bin\Debug\net6.0\Ex06.runtimeconfig.json
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\bin\Debug\net6.0\Ex06.dll
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\bin\Debug\net6.0\ref\Ex06.dll
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\bin\Debug\net6.0\Ex06.pdb
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\obj\Debug\net6.0\Ex06.csproj.AssemblyReference.cache
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\obj\Debug\net6.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\obj\Debug\net6.0\Ex06.AssemblyInfoInputs.cache
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\obj\Debug\net6.0\Ex06.AssemblyInfo.cs
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\obj\Debug\net6.0\Ex06.csproj.CoreCompileInputs.cache
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\obj\Debug\net6.0\Ex06.dll
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\obj\Debug\net6.0\ref\Ex06.dll
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\obj\Debug\net6.0\Ex06.pdb
+C:\Users\matheuscs\Documents\EXERCICIOS - CSHARP\Ex06\Ex06\obj\Debug\net6.0\Ex06.genruntimeconfig.cache
